@@ -1,0 +1,6 @@
+region,orders,revenue,profit_margin_pct
+North,1485,968220.1,26.21
+South,1233,807560.85,25.93
+East,1187,745331.6,26.05
+West,999,683786.4,26.17
+Unknown,96,47918.05,24.91
